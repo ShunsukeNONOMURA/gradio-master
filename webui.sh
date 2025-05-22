@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 仮想環境と作業ディレクトリのパス
-WORKDIR="."
+WORKDIR="./volume"
 VENV_DIR="$WORKDIR/venv"
 PYPROJECT="$WORKDIR/pyproject.toml"
 
